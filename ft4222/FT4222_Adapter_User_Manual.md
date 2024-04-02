@@ -64,7 +64,9 @@ Features of usbio include:
 
 ## Box outline
 
-Refer to the figures in the resource directory for the outline of the adapter box.
+![Top](https://raw.githubusercontent.com/strongtek/adapter/main/ft4222/resource/top.png)
+
+![Side](https://raw.githubusercontent.com/strongtek/adapter/main/ft4222/resource/side.png)
 
 ## Pin assignment
 
