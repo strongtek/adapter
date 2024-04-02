@@ -64,11 +64,7 @@ Features of usbio include:
 
 ## Box outline
 
-Following figure shows the outline of the box.
-
-![Box outline(Top)](.//top.jpg "Top view")
-
-![Box outline(Side)](./resource/top.jpg "Side view")
+Refer to the figures in the resource directory for the outline of the adapter box.
 
 ## Pin assignment
 
