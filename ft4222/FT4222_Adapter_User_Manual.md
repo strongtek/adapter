@@ -113,3 +113,6 @@ Especially, usbio, an open source Tcl wrapper of LibFT4222, can be used.
 For details about the usbio utility, please refer to its github(https://github.com/strongtek/usbio).
 As an open source utility, it provides no binary executables. You can build it from source code. But If you do need a binary executable, please contact us.
 
+You can also goto the Youtube channel to see the build procedure:
+
+https://www.youtube.com/channel/UCNeU4PBaWM9OUf0JDZU0TXA
